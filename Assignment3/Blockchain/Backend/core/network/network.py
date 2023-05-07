@@ -1,5 +1,3 @@
-import sys
-sys.path.append('/Users/Thomas Duffy/OneDrive - Technological University Dublin/Documents/Secure Systems Development/Assignment3')
 
 from base64 import encode
 from io import BytesIO
