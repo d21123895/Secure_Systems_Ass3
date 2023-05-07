@@ -1,5 +1,3 @@
-import sys
-sys.path.append('/Users/Thomas Duffy/OneDrive - Technological University Dublin/Documents/Secure Systems Development/Assignment3')
 
 from Blockchain.Backend.util.util import hash256, little_endian_to_int, int_to_little_endian, bits_to_target
 from Blockchain.Backend.core.database.database import BlockchainDB
